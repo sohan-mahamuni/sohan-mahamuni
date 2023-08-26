@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sohan-mahamuni
+- 👀 I’m interested in Anime
+- 🌱 I’m currently learning Japanese
+- 💞️ I’m looking to collaborate on Java projects
+- 📫 How to reach me sohanmahamuni174@gmail.com
